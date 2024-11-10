@@ -1,0 +1,14 @@
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\bin\Debug\net8.0\Dice Game.exe
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\bin\Debug\net8.0\Dice Game.deps.json
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\bin\Debug\net8.0\Dice Game.runtimeconfig.json
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\bin\Debug\net8.0\Dice Game.dll
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\bin\Debug\net8.0\Dice Game.pdb
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfoInputs.cache
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\Dice Game.AssemblyInfo.cs
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\Dice Game.dll
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\refint\Dice Game.dll
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\Dice Game.pdb
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\Dice Game.genruntimeconfig.cache
+C:\Users\johnm\OneDrive\Desktop\Software\Languages\C#\Dice Game\obj\Debug\net8.0\ref\Dice Game.dll
